@@ -1,8 +1,8 @@
 # Anomaly-Detector
 # Descriere:
-## Setul de date contine 3650 de randuri cu temperaturi diverse in intervalul: 1/1/1981 - 12/31/1990.
+### Setul de date contine 3650 de randuri cu temperaturi diverse in intervalul: 1/1/1981 - 12/31/1990.
 # Motivatia:
-## Proiectul se focuseaza asupra detectarea anomaliilor folosind metode si grafice relevante pentru setul de date.
+### Proiectul se focuseaza asupra detectarea anomaliilor folosind metode si grafice relevante pentru setul de date.
 # Implementare:
   ## Explorarea setului de date si plotarea graficelor:
 
